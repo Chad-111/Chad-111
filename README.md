@@ -1,4 +1,4 @@
-<table class="table">
+<table class="table" align="center">
   <tr>
     <td colspan="3" align="center">
       <!-- Top badges -->
