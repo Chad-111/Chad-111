@@ -11,8 +11,3 @@
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@chado&layout=compact&custom_title=Time%20Spent%20Sitting&langs_count=6&theme=dark&show_icons=true&hide_border=true" />
 </div>
 
-<div align="center">
-<!--     <img src="./bills.gif" width="auto" align="center" /> -->
-     <img src="./sabres.gif" align="center" />
-</div>
-
