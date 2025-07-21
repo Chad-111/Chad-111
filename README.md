@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <img src="./bills.gif" width="auto" align="center" />
+<!--     <img src="./bills.gif" width="auto" align="center" /> -->
      <img src="./sabres.gif" align="center" />
 </div>
 
