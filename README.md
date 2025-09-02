@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,chatgpt,linux,cs,java,golang,html"
+      src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,python,linux,cs,java,golang,html"
     />
   </a>
 </p>
